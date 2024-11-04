@@ -1,0 +1,7 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,SellingÂ  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6060010207,JJ PURE PETRO.JELLY-250GM,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1157360931.0,30-03-2024,17.0,-17.0,513226.0,PCS,Issue to Patient,1.0,12.75,-12.75,8.0,102.0
+6060010207,JJ PURE PETRO.JELLY-250GM,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1163063812.0,14-04-2024,17.0,-51.0,513226.0,PCS,Issue to Patient,3.0,12.75,-38.25,5.0,63.75
+6060010207,JJ PURE PETRO.JELLY-250GM,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1169725996.0,27-04-2024,17.0,-17.0,513226.0,PCS,Issue to Patient,1.0,12.75,-12.75,4.0,51.0
+6060010207,JJ PURE PETRO.JELLY-250GM,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1183332130.0,21-05-2024,17.0,-17.0,513226.0,PCS,Issue to Patient,1.0,12.75,-12.75,3.0,38.25
+6060010207,JJ PURE PETRO.JELLY-250GM,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1184800739.0,23-05-2024,17.0,-17.0,513226.0,PCS,Issue to Patient,1.0,12.75,-12.75,2.0,25.5
+6060010207,JJ PURE PETRO.JELLY-250GM,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1199938365.0,22-06-2024,17.0,-34.0,513226.0,PCS,Issue to Patient,2.0,12.75,-25.5,0.0,0.0

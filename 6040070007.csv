@@ -1,0 +1,5 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,SellingÂ  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6040070007,JJ BABY POWDER-200GM,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1112329325.0,03-01-2024,19.28,-19.28,509038.0,PCS,Issue to Patient,1.0,14.46,-14.46,3.0,43.38
+6040070007,JJ BABY POWDER-200GM,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1128504294.0,03-02-2024,19.28,-19.28,509038.0,PCS,Issue to Patient,1.0,14.46,-14.46,2.0,28.92
+6040070007,JJ BABY POWDER-200GM,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1131322685.0,08-02-2024,19.28,-19.28,509038.0,PCS,Issue to Patient,1.0,14.46,-14.46,1.0,14.46
+6040070007,JJ BABY POWDER-200GM,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1152269917.0,19-03-2024,19.28,-19.28,509038.0,PCS,Issue to Patient,1.0,14.46,-14.46,0.0,0.0

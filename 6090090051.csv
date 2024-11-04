@@ -1,0 +1,7 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,SellingÂ  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6090090051,DEPAKINE 500 MG TAB 40'S,Medicine,Rayan ER Pharmacy,RYN_ERP,Rayan Main Pharmacy,RYN_MP,REP8974,1118029658.0,14-01-2024,32.2,-322.0,453160.0,BOX,Intransit Shipment,10.0,26.82904,-268.2904,3.0,80.48712
+6090090051,DEPAKINE 500 MG TAB 40'S,Medicine,Rayan ER Pharmacy,RYN_ERP,,,,1158771976.0,01-04-2024,32.2,-32.2,453160.0,BOX,Issue to Patient,1.0,26.82935,-26.82935,22.0,590.24575
+6090090051,DEPAKINE 500 MG TAB 40'S,Medicine,Rayan ER Pharmacy,RYN_ERP,,,,1185517213.0,25-05-2024,32.2,-32.2,453160.0,BOX,Issue to Patient,1.0,26.82935,-26.82935,21.0,563.4164
+6090090051,DEPAKINE 500 MG TAB 40'S,Medicine,Rayan ER Pharmacy,RYN_ERP,,,,1192773727.0,06-06-2024,32.2,-96.6,453160.0,BOX,Issue to Patient,3.0,26.82935,-80.48806,18.0,482.92834
+6090090051,DEPAKINE 500 MG TAB 40'S,Medicine,Rayan ER Pharmacy,RYN_ERP,,,,1197995434.0,18-06-2024,32.2,-32.2,453160.0,BOX,Issue to Patient,1.0,26.82935,-26.82935,17.0,456.09899
+6090090051,DEPAKINE 500 MG TAB 40'S,Medicine,Rayan ER Pharmacy,RYN_ERP,,,,1199881606.0,22-06-2024,32.2,-96.6,453160.0,BOX,Issue to Patient,3.0,26.82935,-80.48806,14.0,375.61093

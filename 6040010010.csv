@@ -1,0 +1,5 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,SellingÂ  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6040010010,JJ COTTON BUDS-200'S,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1125411383.0,28-01-2024,26.64,-26.64,510834.0,BOX,Issue to Patient,1.0,19.98,-19.98,6.0,119.88
+6040010010,JJ COTTON BUDS-200'S,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1161914366.0,10-04-2024,26.64,-26.64,510834.0,BOX,Issue to Patient,1.0,19.98,-19.98,5.0,99.9
+6040010010,JJ COTTON BUDS-200'S,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1167630332.0,23-04-2024,26.64,-26.64,510834.0,BOX,Issue to Patient,1.0,19.98,-19.98,4.0,79.92
+6040010010,JJ COTTON BUDS-200'S,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1193958867.0,08-06-2024,26.64,-26.64,510834.0,BOX,Issue to Patient,1.0,19.98,-19.98,3.0,59.94

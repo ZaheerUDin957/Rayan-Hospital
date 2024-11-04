@@ -1,0 +1,3 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,SellingÂ  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6100080021,ISOBID 40 MG CAP 20'S,Medicine,Rayan ER Pharmacy,RYN_ERP,,,,1111226094.0,01-01-2024,23.75,-213.75,514942.0,BOX,Issue to Patient,9.0,19.71424,-177.42813,27.0,532.2844
+6100080021,ISOBID 40 MG CAP 20'S,Medicine,Rayan ER Pharmacy,RYN_ERP,,,,1123744553.0,24-01-2024,23.75,-23.75,514942.0,BOX,Issue to Patient,1.0,19.71424,-19.71424,26.0,512.57017

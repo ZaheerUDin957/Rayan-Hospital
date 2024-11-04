@@ -1,0 +1,4 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,SellingÂ  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6070030022,DETTOL LIQUID-125ML(1CAR=48PCS),Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1133019253.0,11-02-2024,11.95,-11.95,454228.0,20,Issue to Patient,1.0,8.78581,-8.78581,4.0,35.14323
+6070030022,DETTOL LIQUID-125ML(1CAR=48PCS),Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1147522900.0,09-03-2024,11.95,-11.95,454228.0,20,Issue to Patient,1.0,8.78581,-8.78581,3.0,26.35742
+6070030022,DETTOL LIQUID-125ML(1CAR=48PCS),Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1199429729.0,22-06-2024,11.95,-11.95,454228.0,20,Issue to Patient,1.0,8.78581,-8.78581,2.0,17.57162

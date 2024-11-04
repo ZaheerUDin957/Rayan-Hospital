@@ -1,0 +1,7 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,SellingÂ  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6040030010,JJ BABY JELLY UNSCENTED-100GM,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1123774524.0,25-01-2024,9.64,-9.64,506623.0,PCS,Issue to Patient,1.0,7.15773,-7.15773,6.0,42.94638
+6040030010,JJ BABY JELLY UNSCENTED-100GM,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1132142903.0,10-02-2024,9.64,-9.64,506623.0,PCS,Issue to Patient,1.0,7.15773,-7.15773,5.0,35.78865
+6040030010,JJ BABY JELLY UNSCENTED-100GM,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1146621370.0,07-03-2024,9.64,-9.64,506623.0,PCS,Issue to Patient,1.0,7.15773,-7.15773,4.0,28.63092
+6040030010,JJ BABY JELLY UNSCENTED-100GM,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1149297664.0,13-03-2024,9.64,-9.64,506618.0,PCS,Issue to Patient,1.0,7.15773,-7.15773,3.0,21.47319
+6040030010,JJ BABY JELLY UNSCENTED-100GM,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1176856315.0,10-05-2024,9.64,-9.64,506623.0,PCS,Issue to Patient,1.0,7.15773,-7.15773,2.0,14.31546
+6040030010,JJ BABY JELLY UNSCENTED-100GM,Cosmetic,Rayan ER Pharmacy,RYN_ERP,,,,1203050578.0,28-06-2024,9.64,-19.28,506623.0,PCS,Issue to Patient,2.0,7.15773,-14.31546,0.0,0.0
