@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from prophet import Prophet
 import numpy as np
-
+clinic_record = pd.read_csv('clinic_filtered.csv')
 def preprocessing_for_training(df):
   partial_df = df[["Transaction DATE", "Transaction Quantity"]]
   partial_df["Transaction DATE"] = pd.to_datetime(partial_df["Transaction DATE"], format='%d-%m-%Y')
@@ -25,7 +25,7 @@ def forecast_prophet(model, period, freq="D"):
   future_dates = model.make_future_dataframe(periods=period, freq=freq)
   forecast = model.predict(future_dates)
   return forecast
-clinic_record = pd.read_csv('clinic_record.csv')
+
 def clinic():
     selected_category = st.sidebar.selectbox("Select an option", list(clinic_record['Description']))
     selected_item = clinic_record.loc[clinic_record['Description'] == selected_category, 'Item Code'].iloc[0]
