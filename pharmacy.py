@@ -4,7 +4,7 @@ from prophet import Prophet
 import numpy as np
 
 # Example: Reading the pharmacy_record DataFrame (adjust the path if necessary)
-pharmacy_record = pd.read_csv('pharmacy_record.csv')
+pharmacy_record = pd.read_csv('pharmacy_filtered.csv')
 
 def preprocessing_for_training(df):
   partial_df = df[["Transaction DATE", "Transaction Quantity"]]
