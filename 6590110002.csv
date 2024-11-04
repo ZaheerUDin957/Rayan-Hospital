@@ -1,0 +1,3 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,Selling  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6590110002,KONAKION-10MG INJECTION-1'S (IV),Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15501809,1124227867,25-01-2024,3.88,-3.88,517641.0,AMP,Move Order Issue,1.0,3.39488,-3.39488,0.0,0.0
+6590110002,KONAKION-10MG INJECTION-1'S (IV),Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15904008,1188639346,30-05-2024,3.88,-7.76,517641.0,AMP,Move Order Issue,2.0,3.39488,-6.78976,0.0,0.0

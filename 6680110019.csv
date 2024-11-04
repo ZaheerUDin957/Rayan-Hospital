@@ -1,0 +1,3 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,Selling  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6680110019,VENTOLIN 0.5% NEB SOL 20 ML,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15705200,1160617045,06-04-2024,15.55,-155.5,641394.0,20,Move Order Issue,10.0,13.5591,-135.591,12.0,162.7092
+6680110019,VENTOLIN 0.5% NEB SOL 20 ML,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15715951,1162756116,14-04-2024,15.55,-108.85,641394.0,20,Move Order Issue,7.0,13.5591,-94.9137,5.0,67.7955

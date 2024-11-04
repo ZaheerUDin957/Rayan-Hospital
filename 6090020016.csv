@@ -1,0 +1,7 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,Selling  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6090020016,FEVADOL 200 MG SUP 10'S,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15501829,1124227980,25-01-2024,8.9,-6.23,833761.0,BOX,Move Order Issue,0.7,6.43081,-4.50157,0.4,2.57233
+6090020016,FEVADOL 200 MG SUP 10'S,Medicine,Rayan Hospital Clinics,RAY_PTDNWC,RYN 11107-Pediatric 3rd  Floor,,15562554,1135422818,15-02-2024,7.1,-0.71,833758.0,BOX,Move Order Issue,0.1,6.43081,-0.64308,0.9,5.78773
+6090020016,FEVADOL 200 MG SUP 10'S,Medicine,Rayan Hospital Clinics,RAY_PICU,,,,1143787290,03-03-2024,7.1,-1.42,833760.0,BOX,Issue to Patient,0.2,6.43081,-1.28616,0.7,4.50157
+6090020016,FEVADOL 200 MG SUP 10'S,Medicine,Rayan Hospital Clinics,RAY_RCVRY,RYN 11109-Recovery Room,,15891907,1186862529,27-05-2024,7.1,-0.71,833759.0,BOX,Move Order Issue,0.1,6.43925,-0.64392,3.1,19.96167
+6090020016,FEVADOL 200 MG SUP 10'S,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15903708,1188620021,30-05-2024,8.9,-24.92,833761.0,BOX,Move Order Issue,2.8,6.43925,-18.02989,1.0,6.43925
+6090020016,FEVADOL 200 MG SUP 10'S,Medicine,Rayan Hospital Clinics,RAY_ER,,,,1189081955,31-05-2024,8.9,-2.67,833761.0,BOX,Physical Inv Adjust,0.3,6.43925,-1.93177,0.9,5.79532

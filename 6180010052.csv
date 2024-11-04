@@ -1,0 +1,4 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,Selling  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6180010052,BABYJOY SAVING NEWBORN (8*16),Pharmacy Others,Rayan Hospital Clinics,RAY_NURSRY,,,,1142093126,28-02-2024,11.92,-11.92,799529.0,PCS,Issue to Patient,1.0,10.62283,-10.62283,4.0,42.49131
+6180010052,BABYJOY SAVING NEWBORN (8*16),Pharmacy Others,Rayan Hospital Clinics,RAY_NURSRY,,,,1142093141,28-02-2024,11.92,-23.84,799530.0,PCS,Issue to Patient,2.0,10.62283,-21.24566,2.0,21.24566
+6180010052,BABYJOY SAVING NEWBORN (8*16),Pharmacy Others,Rayan Hospital Clinics,RAY_NURSRY,,,,1142103979,28-02-2024,11.92,-23.84,799530.0,PCS,Issue to Patient,2.0,10.62283,-21.24566,0.0,0.0

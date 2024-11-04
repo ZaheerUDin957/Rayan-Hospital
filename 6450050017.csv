@@ -1,0 +1,3 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,Selling  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6450050017,FLAGYL 500 MG TAB 14'S,Medicine,Rayan Hospital Clinics,RAY_PNWRDA,,,,1136192433,17-02-2024,19.15,-5.47,475876.0,BOX,Issue to Patient,0.2857,12.05106,-3.44299,0.0143,0.17233
+6450050017,FLAGYL 500 MG TAB 14'S,Medicine,Rayan Hospital Clinics,RAY_PNWRDA,,,,1187396557,28-05-2024,19.15,-0.27,475876.0,BOX,Physical Inv Adjust,0.0143,12.05106,-0.17233,0.0,0.0

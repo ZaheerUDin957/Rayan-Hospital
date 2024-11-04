@@ -1,0 +1,9 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,Selling  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6180010132,PAMP (5) 6*14,Pharmacy Others,Rayan Hospital Clinics,RAY_PICU,,,,1116279402,11-01-2024,15.71,-15.71,827441.0,PCS,Issue to Patient,1.0,13.10224,-13.10224,3.0,39.30672
+6180010132,PAMP (5) 6*14,Pharmacy Others,Rayan Hospital Clinics,RAY_PICU,,,,1116559988,11-01-2024,15.71,-31.42,827441.0,PCS,Issue to Patient,2.0,13.10224,-26.20448,1.0,13.10224
+6180010132,PAMP (5) 6*14,Pharmacy Others,Rayan Hospital Clinics,RAY_PICU,,,,1118727198,16-01-2024,15.71,-15.71,827441.0,PCS,Issue to Patient,1.0,13.10224,-13.10224,0.0,0.0
+6180010132,PAMP (5) 6*14,Pharmacy Others,Rayan Hospital Clinics,RAY_PICU,,,,1127694118,01-02-2024,15.71,-31.42,827441.0,PCS,Issue to Patient,2.0,13.10224,-26.20448,4.0,52.40896
+6180010132,PAMP (5) 6*14,Pharmacy Others,Rayan Hospital Clinics,RAY_PICU,,,,1127696814,01-02-2024,15.71,-31.42,827441.0,PCS,Issue to Patient,2.0,13.10224,-26.20448,2.0,26.20448
+6180010132,PAMP (5) 6*14,Pharmacy Others,Rayan Hospital Clinics,RAY_PICU,,,,1128283880,02-02-2024,15.71,-31.42,827441.0,PCS,Issue to Patient,2.0,13.10224,-26.20448,0.0,0.0
+6180010132,PAMP (5) 6*14,Pharmacy Others,Rayan Hospital Clinics,RAY_PICU,,,,1128836727,03-02-2024,15.71,-15.71,827441.0,PCS,Issue to Patient,1.0,13.10224,-13.10224,0.0,0.0
+6180010132,PAMP (5) 6*14,Pharmacy Others,Rayan Hospital Clinics,RAY_PICU,,,,1189036628,31-05-2024,15.71,-78.55,827439.0,PCS,Physical Inv Adjust,5.0,13.10224,-65.5112,0.0,0.0

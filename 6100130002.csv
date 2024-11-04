@@ -1,0 +1,6 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,Selling  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6100130002,NITRODERM TTS 5mg PTC 10'S,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15484507,1121205627,20-01-2024,17.6,-3.52,5540132.0,BOX,Move Order Issue,0.2,15.20124,-3.04025,0.5,7.60062
+6100130002,NITRODERM TTS 5mg PTC 10'S,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15484507,1121206336,20-01-2024,17.6,-7.04,5540134.0,BOX,Move Order Issue,0.4,15.20124,-6.08049,0.1,1.52012
+6100130002,NITRODERM TTS 5mg PTC 10'S,Medicine,Rayan Hospital Clinics,RAY_ER,,,,1124448009,26-01-2024,17.6,-8.8,5540136.0,BOX,Physical Inv Adjust,0.5,15.38747,-7.69373,0.1,1.53875
+6100130002,NITRODERM TTS 5mg PTC 10'S,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15903447,1188616285,30-05-2024,17.6,-17.6,5540136.0,BOX,Move Order Issue,1.0,15.40494,-15.40494,0.8,12.32395
+6100130002,NITRODERM TTS 5mg PTC 10'S,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15903447,1188616285,30-05-2024,17.6,-10.56,5540134.0,BOX,Move Order Issue,0.6,15.40494,-9.24297,0.2,3.08099

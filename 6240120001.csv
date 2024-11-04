@@ -1,0 +1,8 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,Selling  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6240120001,GLUCAGEN HYPOKIT 1 MG VIAL 1'S,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15484507,1121484055,21-01-2024,86.55,-173.1,659466.0,AMP,Move Order Issue,2.0,75.04699,-150.09399,4.0,300.18798
+6240120001,GLUCAGEN HYPOKIT 1 MG VIAL 1'S,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15484507,1121484055,21-01-2024,86.55,-86.55,659467.0,AMP,Move Order Issue,1.0,75.04699,-75.04699,3.0,225.14098
+6240120001,GLUCAGEN HYPOKIT 1 MG VIAL 1'S,Medicine,Rayan Hospital Clinics,RAY_ICUA,,,,1186007948,26-05-2024,86.55,-86.55,659486.0,AMP,Issue to Patient,1.0,75.20343,-75.20343,9.0,676.83087
+6240120001,GLUCAGEN HYPOKIT 1 MG VIAL 1'S,Medicine,Rayan Hospital Clinics,RAY_ICUA,,,,1186010401,26-05-2024,86.55,-86.55,659486.0,AMP,Issue to Patient,1.0,75.20343,-75.20343,8.0,601.62744
+6240120001,GLUCAGEN HYPOKIT 1 MG VIAL 1'S,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15903447,1188619995,30-05-2024,86.55,-259.65,659467.0,AMP,Move Order Issue,3.0,75.20343,-225.61029,5.0,376.01715
+6240120001,GLUCAGEN HYPOKIT 1 MG VIAL 1'S,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15903447,1188619995,30-05-2024,86.55,-86.55,659485.0,AMP,Move Order Issue,1.0,75.20343,-75.20343,4.0,300.81372
+6240120001,GLUCAGEN HYPOKIT 1 MG VIAL 1'S,Medicine,Rayan Hospital Clinics,RAY_ICUA,,,,1189052803,31-05-2024,86.55,-173.1,659467.0,AMP,Physical Inv Adjust,2.0,75.20343,-150.40686,2.0,150.40686

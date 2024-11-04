@@ -1,0 +1,4 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,Selling  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6090020036,PONSTAN FORTE 500 MG TAB 20'S,Medicine,Rayan Hospital Clinics,RAY_PTDN3F,,,,1175995181,08-05-2024,15.3,-3.06,5892119.0,BOX,Issue to Patient,0.2,12.71912,-2.54382,0.15,1.90787
+6090020036,PONSTAN FORTE 500 MG TAB 20'S,Medicine,Rayan Hospital Clinics,RAY_PNWRDB,,,,1186658667,27-05-2024,15.3,-2.29,5892115.0,BOX,Issue to Patient,0.1499,12.71912,-1.9066,0.0001,0.00127
+6090020036,PONSTAN FORTE 500 MG TAB 20'S,Medicine,Rayan Hospital Clinics,RAY_PNWRDB,,,,1187381628,28-05-2024,15.3,0.0,5892115.0,BOX,Physical Inv Adjust,0.0001,12.71912,-0.00127,0.0,0.0

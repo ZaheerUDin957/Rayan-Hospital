@@ -1,0 +1,6 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,Selling  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6180010134,PAMP (3) 6*17,Pharmacy Others,Rayan Hospital Clinics,RAY_PTDNWC,,,,1123026453,23-01-2024,15.71,-31.42,827135.0,PCS,Issue to Patient,2.0,13.18236,-26.36472,1.0,13.18236
+6180010134,PAMP (3) 6*17,Pharmacy Others,Rayan Hospital Clinics,RAY_PTDNWC,,,,1123743698,24-01-2024,15.71,-15.71,827135.0,PCS,Issue to Patient,1.0,13.18236,-13.18236,0.0,0.0
+6180010134,PAMP (3) 6*17,Pharmacy Others,Rayan Hospital Clinics,RAY_PTDNWC,,,,1129354372,04-02-2024,15.71,-15.71,827135.0,PCS,Issue to Patient,1.0,13.18236,-13.18236,2.0,26.36472
+6180010134,PAMP (3) 6*17,Pharmacy Others,Rayan Hospital Clinics,RAY_PTDNWC,,,,1129358508,04-02-2024,15.71,-15.71,827135.0,PCS,Issue to Patient,1.0,13.18236,-13.18236,1.0,13.18236
+6180010134,PAMP (3) 6*17,Pharmacy Others,Rayan Hospital Clinics,RAY_PTDNWC,,,,1132635375,10-02-2024,15.71,-15.71,827135.0,PCS,Issue to Patient,1.0,13.18236,-13.18236,0.0,0.0

@@ -1,0 +1,2 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,Selling  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6590030008,NORMAL SALINE 500 ML,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15484596,1121225034,20-01-2024,6.85,-6.85,5621148.0,20,Move Order Issue,1.0,3.14519,-3.14519,0.0,0.0

@@ -1,0 +1,9 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,Selling  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6100010046,CONCOR 5 MG TAB 30'S,Medicine,Rayan Hospital Clinics,RAY_CCU,,,,1127589252,01-02-2024,29.25,-2.93,445683.0,BOX,Issue to Patient,0.1,23.03512,-2.30351,0.03,0.69105
+6100010046,CONCOR 5 MG TAB 30'S,Medicine,Rayan Hospital Clinics,RAY_CCU,,,,1187365965,28-05-2024,29.25,-2.93,4456115.0,BOX,Issue to Patient,0.1,23.03347,-2.30335,4.12,94.89789
+6100010046,CONCOR 5 MG TAB 30'S,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15903447,1188616276,30-05-2024,29.25,-2.01,4456113.0,BOX,Move Order Issue,0.0686,23.03347,-1.5801,5.0514,116.35125
+6100010046,CONCOR 5 MG TAB 30'S,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15903447,1188616276,30-05-2024,29.25,-30.89,4456115.0,BOX,Move Order Issue,1.0561,23.03347,-24.32564,3.9953,92.0256
+6100010046,CONCOR 5 MG TAB 30'S,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15903447,1188616276,30-05-2024,29.25,-0.89,4456109.0,BOX,Move Order Issue,0.0304,23.03347,-0.70022,3.9649,91.32539
+6100010046,CONCOR 5 MG TAB 30'S,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15903447,1188616276,30-05-2024,29.25,-29.28,4456110.0,BOX,Move Order Issue,1.001,23.03347,-23.0565,2.9639,68.26889
+6100010046,CONCOR 5 MG TAB 30'S,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15903447,1188616276,30-05-2024,29.25,-24.68,4456117.0,BOX,Move Order Issue,0.8439,23.03347,-19.43794,2.12,48.83095
+6100010046,CONCOR 5 MG TAB 30'S,Medicine,Rayan Hospital Clinics,RAY_ER,,,,1189081773,31-05-2024,29.25,-58.5,4456113.0,BOX,Physical Inv Adjust,2.0,23.03347,-46.06693,0.12,2.76402

@@ -1,0 +1,9 @@
+Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,Selling  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
+6090020057,TYLENOL 100 MG SUP 10'S,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15484596,1121223035,20-01-2024,10.15,-36.54,636456.0,BOX,Move Order Issue,3.6,6.21663,-22.37985,1.9001,11.81221
+6090020057,TYLENOL 100 MG SUP 10'S,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15501809,1124227927,25-01-2024,10.15,-4.06,636456.0,BOX,Move Order Issue,0.4,6.21663,-2.48665,1.5001,9.32556
+6090020057,TYLENOL 100 MG SUP 10'S,Medicine,Rayan Hospital Clinics,RAY_PNWRDB,,,,1186658692,27-05-2024,10.15,-16.24,636455.0,BOX,Issue to Patient,1.6,6.21663,-9.9466,3.3001,20.51549
+6090020057,TYLENOL 100 MG SUP 10'S,Medicine,Rayan Hospital Clinics,RAY_PTDNWC,,,,1187299025,28-05-2024,10.15,-2.03,636453.0,BOX,Physical Inv Adjust,0.2,6.21663,-1.24333,3.1001,19.27216
+6090020057,TYLENOL 100 MG SUP 10'S,Medicine,Rayan Hospital Clinics,RAY_PTDN3F,,,,1187972569,29-05-2024,10.15,-4.06,636446.0,BOX,Physical Inv Adjust,0.4,6.21663,-2.48665,2.9001,18.02884
+6090020057,TYLENOL 100 MG SUP 10'S,Medicine,Rayan Hospital Clinics,RAY_PTDN3F,,,,1187972772,29-05-2024,10.15,0.0,636453.0,BOX,Physical Inv Adjust,0.0001,6.21663,-0.00062,2.9,18.02822
+6090020057,TYLENOL 100 MG SUP 10'S,Medicine,Rayan Hospital Clinics,RAY_ER,,,,1189081776,31-05-2024,10.15,-21.32,636456.0,BOX,Physical Inv Adjust,2.1,6.21663,-13.05492,0.8,4.9733
+6090020057,TYLENOL 100 MG SUP 10'S,Medicine,Rayan Hospital Clinics,RAY_PICU,Rayan Hospital,RYN_IP,RHC12400,1191369623,04-06-2024,10.15,-2.03,636455.0,BOX,Return to Store/Other Branch,0.2,6.21663,-1.24333,0.6,3.72998
