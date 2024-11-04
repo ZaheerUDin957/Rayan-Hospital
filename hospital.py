@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from prophet import Prophet
 import numpy as np
-hospital_record = pd.read_csv('hospital_record.csv')
+hospital_record = pd.read_csv('hospital_filtered.csv')
 
 def preprocessing_for_training(df):
   partial_df = df[["Transaction DATE", "Transaction Quantity"]]
