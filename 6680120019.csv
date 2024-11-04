@@ -1,2 +1,13 @@
 Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,Selling  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
-6680120019,HISTOP 2 MG / 5 ML SYR 100 ML,Medicine,Rayan Hospital Clinics,RAY_ER,RYN 11206-E.R. (Emergency Room),,15903708,1188628218,30-05-2024,6.9,-6.9,500965.0,20,Move Order Issue,1.0,5.03085,-5.03085,1.0,5.03085
+6680120019,HISTOP 2 MG / 5 ML SYR 100 ML,Medicine,Rayan Hospital,RYN_IP,,,,1114607328,08-01-2024,6.9,-6.9,500959.0,20,Issue to Patient,1.0,5.03009,-5.03009,0.0,0.0
+6680120019,HISTOP 2 MG / 5 ML SYR 100 ML,Medicine,Rayan Hospital,RYN_IP,Rayan Main Pharmacy,,RAY28035,1114793252,08-01-2024,6.9,-6.9,500959.0,20,Intransit Shipment,1.0,5.03009,-5.03009,0.0,0.0
+6680120019,HISTOP 2 MG / 5 ML SYR 100 ML,Medicine,Rayan Hospital,RYN_IP,,,,1122893284,23-01-2024,6.9,-6.9,500964.0,20,Issue to Patient,1.0,5.03081,-5.03081,1.0,5.03081
+6680120019,HISTOP 2 MG / 5 ML SYR 100 ML,Medicine,Rayan Hospital,RYN_IP,,,,1124378414,26-01-2024,6.9,-6.9,500964.0,20,Issue to Patient,1.0,5.03081,-5.03081,0.0,0.0
+6680120019,HISTOP 2 MG / 5 ML SYR 100 ML,Medicine,Rayan Hospital,RYN_IP,,,,1142197942,28-02-2024,6.9,-6.9,500965.0,20,Issue to Patient,1.0,5.03084,-5.03084,1.0,5.03084
+6680120019,HISTOP 2 MG / 5 ML SYR 100 ML,Medicine,Rayan Hospital,RYN_IP,,,,1147200526,09-03-2024,6.9,-6.9,500965.0,20,Issue to Patient,1.0,5.03084,-5.03084,0.0,0.0
+6680120019,HISTOP 2 MG / 5 ML SYR 100 ML,Medicine,Rayan Hospital,STAGE,Rayan Hospital Clinics,RAY_ER,17539397,1161720923,09-04-2024,6.9,-13.8,500965.0,20,Int Order Direct Ship,2.0,5.03085,-10.06169,1.0,5.03085
+6680120019,HISTOP 2 MG / 5 ML SYR 100 ML,Medicine,Rayan Hospital,RYN_IP,,,,1164730761,17-04-2024,6.9,-6.9,500965.0,20,Issue to Patient,1.0,5.03085,-5.03085,0.0,0.0
+6680120019,HISTOP 2 MG / 5 ML SYR 100 ML,Medicine,Rayan Hospital,RYN_IP,,,,1172947168,03-05-2024,6.9,-6.9,500966.0,20,Issue to Patient,1.0,5.03085,-5.03085,2.0,10.06169
+6680120019,HISTOP 2 MG / 5 ML SYR 100 ML,Medicine,Rayan Hospital,RYN_IP,,,,1179340740,14-05-2024,6.9,-6.9,500966.0,20,Issue to Patient,1.0,5.03085,-5.03085,3.0,15.09254
+6680120019,HISTOP 2 MG / 5 ML SYR 100 ML,Medicine,Rayan Hospital,RYN_IP,,,,1199839022,22-06-2024,6.9,-6.9,500966.0,20,Issue to Patient,1.0,5.03085,-5.03085,2.0,10.06169
+6680120019,HISTOP 2 MG / 5 ML SYR 100 ML,Medicine,Rayan Hospital,RYN_IP,,,,1203074892,28-06-2024,6.9,-6.9,500966.0,20,Issue to Patient,1.0,5.03085,-5.03085,1.0,5.03085

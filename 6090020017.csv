@@ -1,2 +1,2 @@
 Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,Selling  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
-6090020057,TYLENOL 100 MG SUP 10'S,Medicine,Rayan Hospital,STAGE,Rayan Hospital Clinics,RAY_PNWRDB,17523453,1148468881,11-03-2024,10.15,-10.15,636455.0,BOX,Int Order Direct Ship,1.0,6.21663,-6.21663,0.0,0.0
+6090020017,FEVADOL 350 MG SUP 10'S,Medicine,Rayan Hospital,STAGE,Rayan Hospital Clinics,RAY_ER,17682636,1203804938,30-06-2024,10.15,-10.15,833856.0,BOX,Int Order Direct Ship,1.0,7.40045,-7.40045,1.0,7.40045

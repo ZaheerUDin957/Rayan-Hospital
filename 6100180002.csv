@@ -1,5 +1,2 @@
 Item Code,Description,Item Category,Oraganization,Sub Inventory,To Location,To Subinventory,Document Number,Transaction ID,Transaction DATE,Selling  Price,Value of Selling Price,Lot Number,UOM,Transaction Type,Transaction Quantity,Transaction Cost,Transaction Value,Balance Quantity,Balance Value
-6100180002,DOPAMINE 200MG INJ 1'S(N)(DIS),Medicine,Rayan Hospital Clinics,RAY_RCVRY,RYN 11109-Recovery Room,,15891907,1186862125,27-05-2024,24.0,-24.0,844229.0,PCS,Move Order Issue,1.0,17.41644,-17.41644,4.0,69.66575
-6100180002,DOPAMINE 200MG INJ 1'S(N)(DIS),Medicine,Rayan Hospital Clinics,RAY_TELMET,,,,1187272965,28-05-2024,24.0,-24.0,844282.0,PCS,Physical Inv Adjust,1.0,17.41644,-17.41644,3.0,52.24931
-6100180002,DOPAMINE 200MG INJ 1'S(N)(DIS),Medicine,Rayan Hospital Clinics,RAY_ORPWRD,,,,1187292995,28-05-2024,24.0,-24.0,844282.0,PCS,Physical Inv Adjust,1.0,17.41644,-17.41644,2.0,34.83288
-6100180002,DOPAMINE 200MG INJ 1'S(N)(DIS),Medicine,Rayan Hospital Clinics,RAY_ICUB,,,,1189052757,31-05-2024,24.0,-48.0,844282.0,PCS,Physical Inv Adjust,2.0,17.41644,-34.83288,0.0,0.0
+6100180002,DOPAMINE 200MG INJ 1'S(N)(DIS),Medicine,Rayan Hospital,RAY_NEURO,,,,1189037314,31-05-2024,24.0,-24.0,844282.0,PCS,Physical Inv Adjust,1.0,18.00716,-18.00716,0.0,0.0
