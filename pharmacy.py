@@ -43,6 +43,6 @@ def pharmacy():
         forcast['yhat'] = np.ceil(forcast['yhat'].abs()).clip(lower=1).astype(int)
         forcast = forcast.rename(columns={'ds': 'date', 'yhat': 'demand'})
         st.markdown(f"<h3>{selected_category}</h3>", unsafe_allow_html=True)
-        st.markdown(f"<center>forecast.tail(period)</center>", unsafe_allow_html=True)
+        st.markdown(f"<div style='display: flex; justify-content: center;'>{forecast.tail(period).to_html(index=False)}</div>", unsafe_allow_html=True)
     else:
        print("Data contains less than 2 rows.")
